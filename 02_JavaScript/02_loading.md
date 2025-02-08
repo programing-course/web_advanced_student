@@ -17,7 +17,7 @@ https://programing-course.github.io/website/loading_slider/
 ### **0.準備**
 
 - `Web基礎コース`を`受講した`方  
-    講座で使用した、サンプルサイトのプログラムを使用してください。  
+    Web基礎コースで使用した、「サイトの作り方」のプログラムを使用してください。  
     [1. 文字のローディング]へ進んでください。
     <br>
 
@@ -27,10 +27,10 @@ https://programing-course.github.io/website/loading_slider/
 
 #### **ベースのプログラムをダウンロード**
 
-- [02_JavaScript] > [演習プログラム] > [base.zip]をダウンロード
-- デスクトップに[プログラミング]フォルダを作成し、展開する
+- [02_JavaScript] > [演習プログラム] > [サイトの作り方.zip]をダウンロード
+- デスクトップに「`プログラミング`」フォルダ、その中に「`サイトの作り方.zip`」を展開する
 
-
+<br><br>
 
 ### **1. 文字のローディング**
 
@@ -139,7 +139,12 @@ window.addEventListener('DOMContentLoaded', function () {
 **JavaScriptからcssのプロパティを操作している**
 ![loading](img/02_loading1-2.png)
 
+<br><br>
+
 ### **2. 画像のローディング**
+
+画像ファイルを「サイトの作り方」> 「images」フォルダに入れる
+- [02_JavaScript] > [演習画像] > [loading_img.png]をダウンロード
 
 ### **①ローディング用のスクリーンを作る**
 
