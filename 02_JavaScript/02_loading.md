@@ -12,6 +12,10 @@
 
 https://programing-course.github.io/website/loading_slider/
 
+<br>
+
+１〜３から好きなものを選んで追加してみよう
+
 <br><br>
 
 ### **0.準備**
@@ -144,7 +148,7 @@ window.addEventListener('DOMContentLoaded', function () {
 ### **2. 画像のローディング**
 
 画像ファイルを「サイトの作り方」> 「images」フォルダに入れる
-- [02_JavaScript] > [演習画像] > [loading_img.png]をダウンロード
+- [02_JavaScript] > [演習画像] > [loading_slider_img.zip]をダウンロード
 
 ### **①ローディング用のスクリーンを作る**
 
